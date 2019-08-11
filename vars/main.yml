@@ -1,0 +1,5 @@
+---
+smartmontools_packages:
+  - smartmontools
+  - sg_scan
+  - nvme
